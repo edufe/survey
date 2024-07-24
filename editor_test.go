@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/AlecAivazis/survey/v2/core"
-	"github.com/AlecAivazis/survey/v2/terminal"
+	"github.com/edufe/survey/v2/core"
+	"github.com/edufe/survey/v2/terminal"
 	"github.com/stretchr/testify/assert"
 )
 

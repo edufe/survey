@@ -3,8 +3,8 @@
 package main
 
 import (
-	"github.com/AlecAivazis/survey/v2"
-	TestUtil "github.com/AlecAivazis/survey/v2/tests/util"
+	"github.com/edufe/survey/v2"
+	TestUtil "github.com/edufe/survey/v2/tests/util"
 )
 
 var val = ""
